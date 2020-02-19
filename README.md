@@ -1,5 +1,3 @@
-# hello-world
-My first repository
+# Meu-Exercicios-Python
 
-Hi github and open source community
-I'm Leonardo
+Meu repositorio de codigos dos exercicios do Curso de Python do Canal 'Curso em Video'.
