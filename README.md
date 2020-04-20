@@ -1,3 +1,3 @@
-# Meu-Exercicios-Python
+# Curso_em_Video
 
-Meu repositorio de codigos dos exercicios do Curso de Python do Canal 'Curso em Video'.
+Meu repositorio para exercicios e atividades do canal __'Curso em Video'__.
